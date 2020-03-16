@@ -1,0 +1,3 @@
+#!/bin/bash
+
+java -cp "/usr/lib/scraper/core/scraper-core.jar:/usr/lib/scraper/addons/*:/usr/lib/scraper/nodes/*:/usr/lib/scraper/plugins/*" scraper.app.Scraper $*

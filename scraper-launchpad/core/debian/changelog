@@ -1,0 +1,17 @@
+scraper (0.11.0) bionic; urgency=medium
+
+  * second release candidate
+
+ -- Albert Schimpf <scraper@schimpf.link>  Mon, 16 Mar 2020 14:30:00 +0100
+
+scraper (0.10.1rc1) bionic; urgency=medium
+
+  * tested core functionality, first release candidate
+
+ -- Albert Schimpf <scraper@schimpf.link>  Mon, 10 Dec 2018 14:30:00 +0900
+
+scraper (0.3.4) bionic; urgency=medium
+
+  * Supply execute script with arguments
+
+ -- Albert Schimpf <scraper@schimpf.link>  Wed, 31 Oct 2018 07:36:30 +0900

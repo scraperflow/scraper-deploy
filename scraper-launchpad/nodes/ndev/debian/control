@@ -1,0 +1,14 @@
+Source: scraper-nodes-dev
+Section: utils
+Priority: optional
+Maintainer: Albert Schimpf <scraper@schimpf.link>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://wiki.scraper.server1.link
+Vcs-Git: https://git.scraper.server1.link
+
+Package: scraper-nodes-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Scrape Node Module Dev
+ Many different types of useful nodes with external dependencies
