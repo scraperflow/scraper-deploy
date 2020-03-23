@@ -4,7 +4,7 @@ Dockerfile expects `scraper` directory in the working directory to exist.
 
 Build with
     
-    docker build . -t albsch/scraper:0.11.2
+    docker build . -t albsch/scraper:latest
 
 Published at
 
