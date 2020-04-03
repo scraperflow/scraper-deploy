@@ -1,0 +1,14 @@
+Source: scraper-plugins-persistent-proxy-scores
+Section: utils
+Priority: optional
+Maintainer: Albert Schimpf <scraper@schimpf.link>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://wiki.scraper.server1.link
+Vcs-Git: https://git.scraper.server1.link
+
+Package: scraper-plugins-persistent-proxy-scores
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Persistent Proxy Scores
+ Saves proxy scores persistently and reloads them on startup

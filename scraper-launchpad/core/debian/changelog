@@ -1,3 +1,27 @@
+scraper (0.11.4) bionic; urgency=medium
+
+  * Reuse proxies with a random backoff
+
+ -- Albert Schimpf <scraper@schimpf.link>  Fri, 3 Apr 2020 16:30:00 +0100
+
+scraper (0.11.3) bionic; urgency=medium
+
+  * Fixed StringGeneratorNode
+
+ -- Albert Schimpf <scraper@schimpf.link>  Tue, 23 Mar 2020 16:30:00 +0100
+
+scraper (0.11.2) bionic; urgency=medium
+
+  * Fixed #2 and #3
+
+ -- Albert Schimpf <scraper@schimpf.link>  Tue, 17 Mar 2020 16:30:00 +0100
+
+scraper (0.11.1b) bionic; urgency=medium
+
+  * Fixed HttpRequestNode
+
+ -- Albert Schimpf <scraper@schimpf.link>  Mon, 16 Mar 2020 16:30:00 +0100
+
 scraper (0.11.0) bionic; urgency=medium
 
   * second release candidate
